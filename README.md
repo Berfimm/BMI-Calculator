@@ -1,2 +1,2 @@
-# bmi-calll
+# bmi-calculater
  
